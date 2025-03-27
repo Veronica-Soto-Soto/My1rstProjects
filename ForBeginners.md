@@ -1,3 +1,4 @@
 # Veronica Soto
 
-Test to know how use Git and GitHub
+Test to know how use Git and GitHub !
+
